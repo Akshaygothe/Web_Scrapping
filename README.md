@@ -1,6 +1,6 @@
 # Web_Scrapping
 
-# Project 1: Amazon web scrapping
+# Project 1: Amazon web scrapper
 For fetching the data of product, from amazon website is created web scrapper. For that i used BeautifulSoup and selenium modules. 
 Using this scrapper we can fetch data of books and any avalibale products from amazon. I used this scrapper for fetching data of books avalibale of amazon site. There might be
 many books on it, but i fetch only from 1 to 20 pages of data. On one page it contain 48 books data. 
